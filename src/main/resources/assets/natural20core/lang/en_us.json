@@ -1,0 +1,32 @@
+{
+  "itemgroup.natural20core.natural20_core_ores": "Natural20 Core: Ores",
+
+  "item.natural20core.silver_ore": "Silver Ore",
+  "item.natural20core.deepslate_silver_ore": "Deepslate Silver Ore",
+  "item.natural20core.silver_nugget": "Silver Nugget",
+  "item.natural20core.raw_silver": "Raw Silver",
+  "item.natural20core.raw_silver_block": "Block of Raw Silver",
+  "item.natural20core.silver_ingot": "Silver Ingot",
+  "item.natural20core.silver_block": "Block of Silver",
+
+  "item.natural20core.character_sheet": "Character Sheet",
+
+  "item.natural20core.chisel": "Chisel",
+  "item.natural20core.magic_block": "Block of Magic",
+
+  "item.natural20core.strawberry": "Strawberry",
+
+  "item.natural20core.starlight_ashes": "Starlight Ashes",
+
+  "block.natural20core.silver_ore": "Silver Ore",
+  "block.natural20core.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.natural20core.raw_silver_block": "Block of Raw Silver",
+  "block.natural20core.silver_block": "Block of Silver",
+
+  "block.natural20core.magic_block": "Block of Magic",
+
+  "item.natural20core.dodo_spawn_egg": "Dodo Spawn Egg",
+  "entity.natural20core.dodo": "Dodo",
+  "item.natural20core.warturtle_spawn_egg": "Warturtle Spawn Egg",
+  "entity.natural20core.warturtle": "Warturtle"
+}

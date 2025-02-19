@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "natural20core:block/silver_block"
+    }
+  }
+}

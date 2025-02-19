@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_starlight_ashes": {
+      "conditions": {
+        "items": [
+          {
+            "items": "natural20core:starlight_ashes"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "natural20core:magic_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_starlight_ashes"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "natural20core:magic_block"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+// 1.21.1	2025-02-19T11:22:48.6097202	Natural20 Core/Block Loot Tables
+cccc4c5849909c26c34684abe5f3f4bcf4e6213a data\natural20core\loot_table\blocks\magic_block.json
+986eacd57ec8458513941fd94254699c3961cde6 data\natural20core\loot_table\blocks\deepslate_silver_ore.json
+ce4942ac01561f4221014f8aeaa31cbd57023d83 data\natural20core\loot_table\blocks\silver_block.json
+a465fb6703b8b858dc53c27057cbfc4020f19763 data\natural20core\loot_table\blocks\silver_ore.json
+1111ab9134be271c39ae85a39600c00aafb7d518 data\natural20core\loot_table\blocks\raw_silver_block.json
