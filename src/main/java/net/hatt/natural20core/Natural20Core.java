@@ -9,10 +9,12 @@ import net.hatt.natural20core.entity.ModEntities;
 import net.hatt.natural20core.entity.custom.DodoEntity;
 import net.hatt.natural20core.entity.custom.WarturtleEntity;
 import net.hatt.natural20core.event.keybinding.KeybindHandler;
+import net.hatt.natural20core.gui.LevelXpBar;
 import net.hatt.natural20core.item.ModItemGroups;
 import net.hatt.natural20core.item.ModItems;
 
 import net.hatt.natural20core.screen.ModScreenHandlers;
+import net.hatt.natural20core.world.gen.ModWorldGeneration;
 import net.hatt.natural20core.worldgen.ModEntitySpawns;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -24,6 +26,10 @@ public class Natural20Core implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		KeybindHandler.registerKeybinds();
+
+		LevelXpBar.register();
+
+		ModWorldGeneration.generateModWorldGeneration();
 
 		ModItemGroups.registerItemGroups();
 
