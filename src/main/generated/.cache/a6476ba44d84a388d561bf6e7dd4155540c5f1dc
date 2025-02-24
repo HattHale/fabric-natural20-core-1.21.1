@@ -1,0 +1,5 @@
+// 1.21.1	2025-02-24T13:40:43.9889834	Natural20 Core/World Gen
+0dba1599b16b1ef70fd1bf1fcf2c8670ba9b73e1 data\natural20core\worldgen\placed_feature\ore_silver_small.json
+899f7d8fe9b3865e0dea01a0844a453ad51de15b data\natural20core\worldgen\configured_feature\silver_ore.json
+55b93efcba070f7c67f43bce85691ce1d7245fc1 data\natural20core\worldgen\placed_feature\ore_silver_upper.json
+05ff9e0503f86a4ff477d9e9c6c9e2e0c255e5c2 data\natural20core\worldgen\placed_feature\ore_silver_middle.json
